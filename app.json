@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "madproject",
+    "slug": "madproject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
